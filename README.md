@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @newazhossainrafi25
-- 👀 I’m interested in ... Coding 
+- 👋 Hi, I’m Newaz Hossain Rafi 
+- 👀 I’m interested in ... Games And App Development 
 - 🌱 I’m currently learning ... coding 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...I am learning Python. After learning Python, I will learn coding with C++ and then develop app games with Unreal Engine on Windows and Android.
+- ⚡ Fun fact: ...Iam Learning Now Python After Complete Python Than i Start C++ With Unreal Engine. Finally, I will learn Kotlin.Because I will make some apps in addition to high games.
 
 <!---
 newazhossainrafi25/newazhossainrafi25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
